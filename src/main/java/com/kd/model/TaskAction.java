@@ -6,5 +6,4 @@ import lombok.Data;
 public class TaskAction {
     private String action;
     private String assignee;
-    private boolean approved;
 }
